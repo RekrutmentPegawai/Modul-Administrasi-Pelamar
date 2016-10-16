@@ -1,4 +1,4 @@
-<font align="center">**SISTEM PEREKRUTAN PEGAWAI BERBASIS WEB**</font>
+<center>**SISTEM PEREKRUTAN PEGAWAI BERBASIS WEB**</center>
 
 **(FRAMEWORK LARAVEL)**
 
